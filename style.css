@@ -1,0 +1,15 @@
+body{background-color: rgb(170, 166, 159);
+border-color: grey;
+margin-top: 1cm;
+margin-right: 2cm;
+}div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}div {
+  width: 200px;
+  height: 65px;
+  background-color:white;
+  overflow: visible;
+}
